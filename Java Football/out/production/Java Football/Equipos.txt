@@ -1,0 +1,119 @@
+Equipo: FC Barcelona;Barcelona;1899;Camp Nou;Joan Laporta
+E;Hansi;Flick;12/02/1965;8;5000000.0;120;false
+J;Robert;Lewandowski;21/08/1988;9;25000000.0;9;DAV;92
+J;Pedri;González;25/11/2002;9;8000000.0;8;MIG;88
+J;Gavi;Paez;05/08/2004;9;7000000.0;6;MIG;85
+J;Marc-André;ter Stegen;30/04/1992;8;12000000.0;1;POR;90
+J;Ronald;Araújo;07/03/1999;8;9000000.0;4;DEF;87
+
+Equipo: Real Madrid;Madrid;1902;Santiago Bernabéu;Florentino Pérez
+E;Carlo;Ancelotti;10/06/1959;9;6000000.0;180;false
+J;Kylian;Mbappé;20/12/1998;10;30000000.0;9;DAV;97
+J;Vinicius;Junior;12/07/2000;9;20000000.0;7;DAV;91
+J;Jude;Bellingham;29/06/2003;9;15000000.0;5;MIG;92
+J;Thibaut;Courtois;11/05/1992;8;10000000.0;1;POR;91
+J;Dani;Carvajal;11/01/1992;8;6000000.0;2;DEF;85
+
+Equipo: Atlético de Madrid;Madrid;1903;Cívitas Metropolitano;Enrique Cerezo
+E;Diego;Simeone;28/04/1970;9;8000000.0;200;false
+J;Antoine;Griezmann;21/03/1991;9;15000000.0;7;DAV;89
+J;Álvaro;Morata;23/10/1992;8;8000000.0;9;DAV;84
+J;Koke;Resurrección;08/01/1992;8;5000000.0;6;MIG;83
+J;Jan;Oblak;07/01/1993;9;10000000.0;1;POR;92
+J;José María;Giménez;20/01/1995;8;7000000.0;2;DEF;86
+
+Equipo: Sevilla FC;Sevilla;1890;Ramón Sánchez-Pizjuán;José Castro
+E;Quique;Sánchez Flores;02/06/1965;7;2000000.0;90;false
+J;Youssef;En-Nesyri;01/06/1997;8;8000000.0;15;DAV;83
+J;Lucas;Ocampos;11/07/1994;8;7000000.0;5;MIG;82
+J;Ivan;Rakitic;10/03/1988;7;5000000.0;10;MIG;80
+J;Bono;Munir;05/04/1991;8;4000000.0;1;POR;85
+J;Jesús;Navas;21/11/1985;7;3000000.0;16;DEF;79
+
+Equipo: Valencia CF;Valencia;1919;Mestalla;Layhoon Chan
+E;Rubén;Baraja;11/07/1975;7;1500000.0;40;false
+J;Hugo;Duro;10/09/1999;7;3000000.0;9;DAV;76
+J;Pepelu;Gayà;03/01/2000;7;2500000.0;14;MIG;74
+J;Carlos;Soler;02/01/1997;8;4000000.0;26;MIG;78
+J;Giorgi;Mamardashvili;29/09/2000;7;3000000.0;1;POR;82
+J;Cristhian;Mosquera;26/06/2003;7;2000000.0;5;DEF;75
+
+Equipo: Athletic Club;Bilbao;1898;San Mamés;Jon Uriarte
+E;Ernesto;Valverde;09/02/1964;8;3000000.0;150;true
+J;Iñaki;Williams;15/06/1994;9;8000000.0;9;DAV;84
+J;Nico;Williams;12/07/2002;9;6000000.0;11;DAV;85
+J;Oihan;Sancet;25/04/2000;8;4000000.0;8;MIG;80
+J;Unai;Simón;11/06/1997;8;5000000.0;1;POR;86
+J;Dani;Vivian;05/07/1999;8;3000000.0;3;DEF;79
+
+Equipo: Real Sociedad;San Sebastián;1909;Reale Arena;Jokin Aperribay
+E;Imanol;Alguacil;05/07/1971;8;2500000.0;60;false
+J;Mikel;Oyarzabal;21/04/1997;9;8000000.0;10;DAV;86
+J;Takefusa;Kubo;04/06/2001;8;6000000.0;14;MIG;84
+J;Brais;Méndez;07/01/1997;8;5000000.0;8;MIG;81
+J;Alex;Remiro;24/03/1995;8;4000000.0;1;POR;84
+J;Robin;Le Normand;11/11/1996;8;3500000.0;5;DEF;82
+
+Equipo: Villarreal CF;Villarreal;1923;Estadio de la Cerámica;Fernando Roig
+E;Marcelino;García Toral;15/08/1965;7;2000000.0;80;false
+J;Gerard;Moreno;07/04/1992;8;7000000.0;7;DAV;83
+J;Dani;Parejo;16/04/1989;8;4000000.0;10;MIG;82
+J;Yerlan;Aghezzaf;15/04/2000;7;2000000.0;4;MIG;73
+J;Sergio;Asenjo;28/06/1989;7;2500000.0;1;POR;80
+J;Raúl;Albiol;04/09/1985;7;3000000.0;3;DEF;81
+
+Equipo: Real Betis;Sevilla;1907;Estadio Benito Villamarín;Ángel Haro
+E;Manuel;Pellegrini;16/09/1953;8;4000000.0;160;true
+J;Isco;Alarcón;21/04/1992;8;5000000.0;22;MIG;82
+J;Ayoze;Pérez;29/07/1993;7;4000000.0;17;DAV;79
+J;Sergio;Canales;16/02/1991;8;4500000.0;10;MIG;81
+J;Claudio;Bravo;13/04/1983;7;2000000.0;1;POR;78
+J;Marc;Bartra;15/01/1991;7;3000000.0;5;DEF;79
+
+Equipo: Celta de Vigo;Vigo;1923;Abanca-Balaídos;Carlos Mouriño
+E;Claudio;Giráldez;01/01/1982;7;1000000.0;20;false
+J;Iago;Aspas;01/08/1987;9;6000000.0;10;DAV;86
+J;Carles;Pérez;16/02/1998;7;3000000.0;7;DAV;76
+J;Fran;Beltrán;03/02/1999;7;2500000.0;14;MIG;75
+J;Iván;Villar;03/01/1997;7;2000000.0;1;POR;78
+J;Javi;Galán;27/11/1997;7;2500000.0;3;DEF;76
+
+Equipo: Getafe CF;Getafe;1983;Coliseum Alfonso Pérez;Ángel Torres
+E;José;Bordalás;05/07/1964;7;1500000.0;70;false
+J;Borja;Mayoral;05/03/1997;7;4000000.0;9;DAV;77
+J;Mauro;Arambarri;30/09/1995;7;3000000.0;6;MIG;76
+J;Jakub;Jankto;19/01/1996;6;2000000.0;22;MIG;72
+J;David;Soria;04/04/1993;7;2000000.0;1;POR;79
+J;Domingos;Quina;22/11/1999;6;1500000.0;4;DEF;70
+
+Equipo: RCD Mallorca;Palma;1916;Visit Mallorca Estadi;Alfonso Díaz
+E;Javier;Aguirre;01/12/1958;7;1500000.0;85;true
+J;Vedat;Muriqi;24/04/1994;7;5000000.0;9;DAV;80
+J;Cyle;Larin;17/04/1995;7;3000000.0;11;DAV;76
+J;Dani;Rodríguez;22/05/1990;7;2000000.0;18;MIG;74
+J;Predrag;Rajkovic;31/10/1995;7;2500000.0;1;POR;80
+J;Martin;Valjent;01/10/1996;7;2000000.0;4;DEF;77
+
+Equipo: Girona FC;Girona;1930;Estadi Montilivi;Delfí Geli
+E;Míchel;Sánchez;22/03/1975;8;1500000.0;30;false
+J;Artem;Dovbyk;21/08/1997;8;8000000.0;9;DAV;85
+J;Savinho;Moreira;10/08/2004;8;5000000.0;11;DAV;81
+J;Ivan;Martín;24/04/2001;7;2000000.0;8;MIG;76
+J;Paulo;Gazzaniga;02/01/1992;7;1500000.0;1;POR;79
+J;David;López;27/08/1989;7;2000000.0;5;DEF;77
+
+Equipo: Rayo Vallecano;Madrid;1924;Estadio de Vallecas;Raúl Martín Presa
+E;Iñigo;Pérez;15/03/1981;6;800000.0;15;false
+J;Raúl;de Tomás;17/10/1994;7;4000000.0;9;DAV;79
+J;Isi;Palazón;09/10/1993;7;3000000.0;21;MIG;77
+J;Oscar;Trejo;26/04/1988;7;2000000.0;10;MIG;75
+J;Stole;Dimitrievski;25/12/1993;7;1500000.0;1;POR;78
+J;Alejandro;Catena;15/01/1996;6;1500000.0;5;DEF;73
+
+Equipo: UD Las Palmas;Las Palmas;1949;Estadio Gran Canaria;Miguel Ángel Ramírez
+E;Diego;Martínez;28/10/1980;7;1000000.0;25;false
+J;Sandro;Ramírez;09/07/1995;7;3000000.0;9;DAV;76
+J;Alberto;Moleiro;07/09/2003;7;2500000.0;14;MIG;77
+J;Kirian;Rodríguez;20/09/1996;7;2000000.0;8;MIG;74
+J;Álvaro;Vallés;06/02/1998;7;1500000.0;1;POR;77
+J;Álex;Suárez;11/04/2001;6;1000000.0;3;DEF;72
